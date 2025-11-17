@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Arpita
+## Hi there 👋 I'm Arpita Chowdhury
 
 I'm currently learning and building real-world cloud skills through self-guided AWS projects, labs, and structured study.  
 My goal is to start my career as a **Cloud Support Engineer** by developing strong troubleshooting ability, AWS fundamentals, and documentation skills.
